@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="o"
+                 name="Skular"
+                 start-page="Main.md">
+
+    <toc-element topic="Main.md">
+        <toc-element topic="Student-Management.md"/>
+        <toc-element topic="Faculty-Features.md"/>
+        <toc-element topic="Course-Management.md"/>
+        <toc-element topic="Administrative-Tools.md"/>
+        <toc-element topic="Exam-and-Grading.md"/>
+        <toc-element topic="Communication.md"/>
+        <toc-element topic="Resource-Management.md"/>
+        <toc-element topic="Security.md"/>
+        <toc-element topic="User-Friendly-Interface.md"/>
+        <toc-element topic="Collaboration-Tools.md"/>
+        <toc-element topic="Analytics-and-Reporting.md"/>
+    </toc-element>
+</instance-profile>
