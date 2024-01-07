@@ -3,6 +3,7 @@
 ## 1. Student Performance Analytics:
 
 ### Visual Representation of Academic Progress:
+
 - **Comprehensive Dashboards:**
     - Develop comprehensive dashboards for students to visualize their academic progress.
     - Include visual representations such as charts and graphs showcasing grades, attendance, and overall performance.
@@ -18,6 +19,7 @@
 ## 2. Faculty Performance Analytics:
 
 ### Visual Representation of Growth and Contribution:
+
 - **Individual Faculty Dashboards:**
     - Provide faculty members with individual dashboards for visualizing their performance and growth.
     - Include metrics such as student feedback, course completion rates, and research contributions.
@@ -33,8 +35,10 @@
 ## 3. Customizable Reports for Administrators:
 
 ### Reports Based on Specific Metrics and Parameters:
+
 - **Custom Report Generation:**
-    - Implement a customizable reporting system for administrators to generate reports based on specific metrics and parameters.
+    - Implement a customizable reporting system for administrators to generate reports based on specific metrics and
+      parameters.
     - Allow flexibility in choosing report elements, timeframes, and data filters.
 
 - **Trend Analysis and Benchmarking:**
@@ -45,4 +49,6 @@
     - Set up automated delivery of reports to streamline administrative processes.
     - Enable administrators to receive reports on key performance indicators at scheduled intervals.
 
-These Analytics and Reporting features aim to provide valuable insights into student and faculty performance, supporting data-driven decision-making for both individual improvement and institutional growth. Feel free to use or modify this Markdown content based on your needs.
+These Analytics and Reporting features aim to provide valuable insights into student and faculty performance, supporting
+data-driven decision-making for both individual improvement and institutional growth. Feel free to use or modify this
+Markdown content based on your needs.

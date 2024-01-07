@@ -3,6 +3,7 @@
 ## 1. Course Creation and Scheduling:
 
 ### Easy Course Setup with Details and Prerequisites:
+
 - **User-Friendly Course Setup:**
     - Develop an intuitive platform for instructors to easily create and schedule courses.
     - Include a step-by-step process for adding course details, making it accessible for all instructors.
@@ -18,6 +19,7 @@
 ## 2. Syllabus Upload:
 
 ### Central Repository for Course Materials:
+
 - **Cloud-Based Storage Integration:**
     - Integrate with cloud storage solutions like AWS S3 or Google Cloud Storage for scalable and reliable storage.
     - Ensure seamless upload and retrieval of course materials.
@@ -33,6 +35,7 @@
 ## 3. Assignment and Project Tracking:
 
 ### Submission Deadlines and Grading Rubrics:
+
 - **Deadline Management:**
     - Enable instructors to set clear deadlines for assignments and projects.
     - Implement reminders and notifications to alert students and instructors of upcoming deadlines.
@@ -49,4 +52,5 @@
     - Implement a dashboard for students to track their assignment and project progress.
     - Include visual indicators for completed, pending, and graded submissions.
 
-These Course Management features aim to streamline the course creation, syllabus management, and assignment tracking processes, providing a comprehensive platform for both instructors and students.
+These Course Management features aim to streamline the course creation, syllabus management, and assignment tracking
+processes, providing a comprehensive platform for both instructors and students.

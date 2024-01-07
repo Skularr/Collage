@@ -3,6 +3,7 @@
 ## 1. Enrollment and Registration:
 
 ### Online Admission Forms:
+
 - **User-Friendly Forms:**
     - Create online admission forms with a user-friendly interface for easy navigation.
     - Ensure the forms are accessible from various devices, facilitating a smooth enrollment process.
@@ -12,6 +13,7 @@
     - Provide real-time feedback to applicants to assist in the submission process.
 
 ### Document Upload for Verification:
+
 - **Secure Document Handling:**
     - Enable students to upload necessary documents securely during the admission process.
     - Implement encryption protocols to safeguard sensitive information.
@@ -23,6 +25,7 @@
 ## 2. Profile Management:
 
 ### Personal Details, Academic History, and Achievements:
+
 - **Comprehensive User Profiles:**
     - Allow students to create comprehensive profiles with personal details, academic history, and achievements.
     - Enable easy updates to keep profiles current and reflective of the student's academic journey.
@@ -34,6 +37,7 @@
 ## 3. Attendance Tracking:
 
 ### RFID or Biometric Attendance System:
+
 - **Efficient Tracking Devices:**
     - Integrate RFID or biometric devices for accurate attendance tracking.
     - Ensure devices are reliable and provide real-time data for precise attendance records.
@@ -43,6 +47,7 @@
     - Develop a user-friendly app interface that allows students to mark attendance on their smartphones.
 
 ### Notifications for Low Attendance:
+
 - **Automated Notification System:**
     - Implement an automated system to notify students and faculty of low attendance.
     - Notifications could be through email, SMS, or within a dedicated student portal.
@@ -51,4 +56,5 @@
     - Allow administrators to configure attendance thresholds dynamically.
     - Provide customizable notification settings for a personalized user experience.
 
-These Student Management features aim to enhance the enrollment, profile management, and attendance tracking processes, fostering a secure and efficient environment for both students and administrative staff.
+These Student Management features aim to enhance the enrollment, profile management, and attendance tracking processes,
+fostering a secure and efficient environment for both students and administrative staff.

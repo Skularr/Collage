@@ -1,4 +1,4 @@
-# Collage management system
+# Overview
 
 ## Student Management
 
@@ -16,13 +16,13 @@
 ## Faculty Features
 
 1. Enrollment and Registration:
-   - Registration form in admin dashboard
+    - Registration form in admin dashboard
 2. Teacher Profiles:
-   - Professional details and expertise
+    - Professional details and expertise
 3. Class Assignment and Schedule:
-   - Easy assignment of courses and schedules
+    - Easy assignment of courses and schedules
 4. Performance Analytics:
-   - Evaluation based on student feedback and performance
+    - Evaluation based on student feedback and performance
 
 > <a href="Faculty-Features.md">More Details</a>
 
@@ -40,11 +40,11 @@
 ## Administrative Tools
 
 1. Financial Management:
-   - Budgeting, expense tracking, and reporting
+    - Budgeting, expense tracking, and reporting
 2. Admission and Registration Analytics:
-   - Insights into enrollment trends
+    - Insights into enrollment trends
 3. Alumni Management:
-   - Alumni database and engagement tools
+    - Alumni database and engagement tools
 
 > <a href="Administrative-Tools.md">More Details</a>
 
@@ -103,11 +103,11 @@
 ## Collaboration Tools
 
 1. Group Projects and Collaboration Spaces:
-   - Online platforms for group work
+    - Online platforms for group work
 2. Virtual Classrooms:
-   - Interactive online classrooms
+    - Interactive online classrooms
 3. Video Conferencing Integration:
-   - Seamless integration with popular video conferencing tools
+    - Seamless integration with popular video conferencing tools
 
 > <a href="Collaboration-Tools.md">More Details</a>
 
@@ -116,7 +116,7 @@
 1. Student Performance Analytics:
     - Visual representation of academic progress
 2. Faculty Performance Analytics:
-   - Visual representation of growth and contribution
+    - Visual representation of growth and contribution
 3. Customizable Reports for Administrators:
     - Reports based on specific metrics and parameters
 

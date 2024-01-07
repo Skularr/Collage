@@ -3,6 +3,7 @@
 ## 1. Internal Messaging System:
 
 ### Instant Messaging Between Students and Faculty:
+
 - **Real-Time Communication:**
     - Implement an internal messaging system for seamless communication between students and faculty.
     - Support real-time messaging with features like typing indicators and read receipts.
@@ -18,6 +19,7 @@
 ## 2. Announcements and Alerts:
 
 ### Push Notifications for Important Updates:
+
 - **Centralized Announcement Hub:**
     - Establish a centralized hub for announcements and important updates.
     - Administrators can post notifications accessible to the entire academic community.
@@ -33,6 +35,7 @@
 ## 3. Discussion Forums:
 
 ### Topic-Wise Forums for Collaborative Learning:
+
 - **Dedicated Discussion Spaces:**
     - Create topic-wise discussion forums for collaborative learning and knowledge sharing.
     - Enable students and faculty to engage in discussions related to specific subjects or courses.
@@ -45,4 +48,5 @@
     - Integrate discussion forums with relevant learning resources, assignments, and course materials.
     - Encourage interactive learning experiences through discussions.
 
-These Communication features aim to enhance collaboration and information dissemination within the academic community. Feel free to use or modify this Markdown content based on your needs.
+These Communication features aim to enhance collaboration and information dissemination within the academic community.
+Feel free to use or modify this Markdown content based on your needs.

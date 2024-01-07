@@ -3,6 +3,7 @@
 ## 1. Exam Scheduling:
 
 ### Flexible Exam Date and Time Options:
+
 - **Scheduling Flexibility:**
     - Provide a flexible exam scheduling system to accommodate various courses and student preferences.
     - Allow administrators to set multiple date and time options for each exam.
@@ -18,6 +19,7 @@
 ## 2. Grading System:
 
 ### Customizable Grading Scales:
+
 - **Adaptable Grading Scales:**
     - Implement a grading system that supports customizable grading scales for different courses and subjects.
     - Allow instructors to set grading criteria based on course requirements.
@@ -33,6 +35,7 @@
 ## 3. Result Publication:
 
 ### Automated Result Generation and Distribution:
+
 - **Efficient Result Processing:**
     - Implement an automated system for result generation based on grading inputs.
     - Reduce manual processing time and minimize errors in result calculations.
@@ -45,4 +48,5 @@
     - Set up automated notifications to inform students when results are available.
     - Include personalized feedback and guidance for improvement where applicable.
 
-These Exam and Grading features aim to streamline the exam scheduling process, enhance grading flexibility, and provide efficient result publication mechanisms. Feel free to use or modify this Markdown content based on your needs.
+These Exam and Grading features aim to streamline the exam scheduling process, enhance grading flexibility, and provide
+efficient result publication mechanisms. Feel free to use or modify this Markdown content based on your needs.

@@ -3,6 +3,7 @@
 ## 1. Enrollment and Registration:
 
 ### Registration Form in Admin Dashboard:
+
 - **Admin Access:**
     - Admins can access a dedicated dashboard for faculty enrollment and registration.
     - A user-friendly form allows the admin to input essential details for faculty registration.
@@ -14,6 +15,7 @@
 ## 2. Teacher Profiles:
 
 ### Professional Details and Expertise:
+
 - **Profile Creation:**
     - Faculty members can create detailed profiles showcasing their professional information.
     - Include sections for education, certifications, research interests, and professional achievements.
@@ -25,6 +27,7 @@
 ## 3. Class Assignment and Schedule:
 
 ### Easy Assignment of Courses and Schedules:
+
 - **Course Assignment Interface:**
     - Provide a user-friendly interface for admins to assign courses to faculty members.
     - Include filters and sorting options based on subjects, faculty expertise, and availability.
@@ -36,6 +39,7 @@
 ## 4. Performance Analytics:
 
 ### Evaluation Based on Student Feedback and Performance:
+
 - **Student Feedback Surveys:**
     - Conduct regular student feedback surveys to assess faculty performance.
     - Gather insights on teaching methods, communication, and overall effectiveness.
@@ -48,4 +52,6 @@
     - Provide a platform for faculty to access their performance analytics.
     - Encourage faculty to create improvement plans based on feedback and performance metrics.
 
-These Faculty Features aim to streamline the faculty management process, offering tools for efficient enrollment, detailed profiles, course assignments, and performance evaluation. The goal is to create a supportive environment for faculty members to excel in their roles and contribute effectively to the academic community.
+These Faculty Features aim to streamline the faculty management process, offering tools for efficient enrollment,
+detailed profiles, course assignments, and performance evaluation. The goal is to create a supportive environment for
+faculty members to excel in their roles and contribute effectively to the academic community.

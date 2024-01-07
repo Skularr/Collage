@@ -3,6 +3,7 @@
 ## 1. Library Management:
 
 ### Cataloging, Reservation, and Check-Out System:
+
 - **Comprehensive Cataloging:**
     - Implement a comprehensive library cataloging system for efficient organization of books and resources.
     - Include details such as author, genre, publication date, and availability status.
@@ -18,6 +19,7 @@
 ## 2. Digital Resource Repository:
 
 ### Access to E-books, Journals, and Research Materials:
+
 - **Centralized Digital Repository:**
     - Create a centralized repository for digital resources, including e-books, journals, and research materials.
     - Ensure seamless access to resources with a user-friendly interface.
@@ -33,6 +35,7 @@
 ## 3. Equipment and Facility Booking:
 
 ### Reservation System for Labs, Auditoriums, etc.:
+
 - **Facility Booking Calendar:**
     - Implement an online calendar for reserving facilities like labs, auditoriums, and meeting rooms.
     - Enable administrators to set availability schedules and manage bookings.
@@ -45,4 +48,6 @@
     - Develop a user-friendly booking interface for students and faculty.
     - Include features like confirmation emails and reminders for booked facilities.
 
-These Resource Management features aim to streamline the management of physical and digital resources, ensuring optimal utilization and accessibility for the academic community. Feel free to use or modify this Markdown content based on your needs.
+These Resource Management features aim to streamline the management of physical and digital resources, ensuring optimal
+utilization and accessibility for the academic community. Feel free to use or modify this Markdown content based on your
+needs.
