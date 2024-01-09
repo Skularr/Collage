@@ -1,4 +1,4 @@
-# Identity and Access Service
+# Identity Service
 
 The Identity and Access Service is a fundamental microservice within the educational management system,
 dedicated to user management, registration, and providing essential user-related functionalities.

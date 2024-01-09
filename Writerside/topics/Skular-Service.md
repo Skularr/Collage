@@ -7,7 +7,7 @@ organizational onboarding, support, and administration. Its primary responsibili
 
 ### - New Organization Registration
 
-- Provides endpoints for the registration of new organizations, including schools and colleges.
+- ~~Provides endpoints for the registration of new organizations, including schools and colleges.~~
 - Implements secure and streamlined processes for capturing essential organizational details during the onboarding
   phase.
 

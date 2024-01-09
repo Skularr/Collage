@@ -2,7 +2,7 @@
 <!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile
-        id="o"
+        id="SK"
         name="Skular"
         start-page="Main.md"
 >
@@ -21,7 +21,7 @@
     </toc-element>
     <toc-element topic="Micro-Services.md">
         <toc-element topic="Skular-Service.md"/>
-        <toc-element topic="Identity-and-Access-Service.md"/>
+        <toc-element topic="Identity-Service.md"/>
         <toc-element topic="Access-Service.md"/>
         <toc-element topic="Student-Management-Service.md"/>
         <toc-element topic="Faculty-Management-Service.md"/>
