@@ -1,4 +1,4 @@
-# Exam and Grading Service
+# Exam Service
 
 The Exam and Grading Service is a specialized microservice designed to efficiently manage the examination and grading
 processes within the educational management system. Its primary responsibilities encompass:
